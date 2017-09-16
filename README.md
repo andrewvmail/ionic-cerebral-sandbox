@@ -1,4 +1,4 @@
-This is a proof of concept mash of [Ionic](http://ionicframework.com/docs/) and [Cerebral](https://cerebraljs.com/)
+Mashing of [Ionic](http://ionicframework.com/docs/) and [Cerebral](https://cerebraljs.com/)
 
 ## How to run this project
 
