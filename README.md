@@ -3,6 +3,7 @@ Mashing of [Ionic](http://ionicframework.com/docs/) and [Cerebral](https://cereb
 ## How to run this project
 
 ```
+npm install -g ionic cordova
 git clone git@github.com:andrewvmail/ionic-cerebral-sandbox.git
 cd ionic-cerebral-sandbox
 npm install
