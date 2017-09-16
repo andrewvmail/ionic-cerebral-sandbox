@@ -2,7 +2,8 @@ Mashing of [Ionic](http://ionicframework.com/docs/) and [Cerebral](https://cereb
 
 ## How to run this project
 
-```git clone git@github.com:andrewvmail/ionic-cerebral-sandbox.git
+```
+git clone git@github.com:andrewvmail/ionic-cerebral-sandbox.git
 cd ionic-cerebral-sandbox
 npm install
 ionic serve
